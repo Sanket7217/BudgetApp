@@ -6,9 +6,9 @@ The objective of the application is to keep track of over all income and expense
 
 JavaScript Used
 
-# Object Oriented JS
-# DOM Manipulation
-# Function Constructor
-# Event Delegation
+1. Object Oriented JS
+2. DOM Manipulation
+3. Function Constructor
+4. Event Delegation
 
 */
